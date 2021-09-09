@@ -35,7 +35,7 @@ education:
 
 ########### University Employment ###########
 employment-university:
-  - title: Curator of Digital Humanities
+  - title: Judaica Curator of Digital Humanities
     company: Penn Libraries
     date: "2019–Present"
     context: "Managing the research and development of various projects associated with Judaica Digital Humanities at Penn Libraries, I deepen public and scholarly engagement with Penn's Judiaca materials"
@@ -124,8 +124,8 @@ edited:
 journals:
   - title: "Scribes, Scholars, and Scripts: Reviewing Data from <i>Scribes of the Cairo Geniza</i>"
     venue: "Manuscript Studies: a Journal of Schoenberg Institute for Manuscript Studies"
-    date: "(forthcoming)"
-    url: ""
+    date: "September 2020"
+    url: "https://doi.org/10.1353/mns.2020.0016"
   - title: "Digital Second Edition of Judaica Americana: A Bibliography of Publications to 1900."
     venue: "Journal of Open Humanities Data"
     date: "July 2020"
