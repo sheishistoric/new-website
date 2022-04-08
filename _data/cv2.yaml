@@ -17,11 +17,8 @@ contact:
 ########### Profile ###########
 profile: I work in digital public humanities, which means proactively engaging with audience, content, and methods in relation to the projects we build with technology and data. I create and apply digital tools to foster connection and dialogue around cultural heritage. Having played an active role in shaping collaborations, training, and programming around understanding data, I am especially excited to tackle data-related projects and educate others to do the same.
 
-<<<<<<< Updated upstream
-profile-public: Over five years of working in higher education and cultural institutions, I have explored different approaches to developing effective digital content. I practice digital public humanities, bringing my love for museums and my interest in digital tools together to give audiences agency in their participation and engagement. <br /> <br /> Being an emerging museum professional today requires means building solidarity and knowledge exchange across the museum sector. I'm an ardent supporter of <a href="https://www.museumsarenotneutral.com/">#MuseumsAreNotNeutral</a>, a campaign that urges museum professionals to acknowledge and address social realities, and believe museums are most responsive when we bring people and collections together to benefit communities.
-=======
+
 profile-public: Over five years of working in higher education and cultural institutions, I have explored different approaches to developing effective digital content. I practice digital public humanities, bringing my love for museums and my interest in digital tools together to give audiences agency in their participation and engagement.
->>>>>>> Stashed changes
 
 profile-digital: With universities and cultural institutions, I work on innovative digital projects to engage audiences with objects, stories, and ideas.
 
@@ -39,17 +36,13 @@ education:
 
 ########### University Employment ###########
 employment-university:
-<<<<<<< Updated upstream
-  - title: Judaica Curator of Digital Humanities
-=======
   - title: Curator of Digital Humanities
     company: Penn Libraries
     date: "2021–Present"
-    context: "MAs the inaugural Kaplan Curator, I spearhead projects that facilitate access to and use of Penn's Judaica collections, promoting them and making connections between them and dispersed Judaica content around the globe. I am also responsible for curating, building, and researching the Arnold and Deanne Kaplan Collection of Early American Judaica."
+    context: "As the inaugural Kaplan Curator, I spearhead projects that facilitate access to and use of Penn's Judaica collections, promoting them and making connections between them and dispersed Judaica content around the globe. I am also responsible for curating, building, and researching the Arnold and Deanne Kaplan Collection of Early American Judaica."
     page-tag-tech: digital
     page-tag: publichumanities
   - title: Judaica Digital Humanities Coordinator
->>>>>>> Stashed changes
     company: Penn Libraries
     date: "2019–2021"
     context: "Managing the research and development of various projects associated with Judaica Digital Humanities at Penn Libraries, I deepen public and scholarly engagement with Penn's Judiaca materials"
@@ -147,13 +140,9 @@ edited:
 journals:
   - title: "Scribes, Scholars, and Scripts: Reviewing Data from <i>Scribes of the Cairo Geniza</i>"
     venue: "Manuscript Studies: a Journal of Schoenberg Institute for Manuscript Studies"
-<<<<<<< Updated upstream
     date: "September 2020"
-    url: "https://doi.org/10.1353/mns.2020.0016"
-=======
     date: "2021"
     url: "https://repository.upenn.edu/mss_sims/vol5/iss2/4/"
->>>>>>> Stashed changes
   - title: "Digital Second Edition of Judaica Americana: A Bibliography of Publications to 1900."
     venue: "Journal of Open Humanities Data"
     date: "July 2020"
