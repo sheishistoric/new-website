@@ -22,7 +22,7 @@ profile-public: Over five years of working in higher education and cultural inst
 
 profile-digital: With universities and cultural institutions, I work on innovative digital projects to engage audiences with objects, stories, and ideas.
 
-profile-writing: I am a freelance writer on arts, pop culture, and public history. Most of my work has been as a contributor to the <a href="https://www.broadstreetreview.com/">Broad Street Review</a>, a non-profit online arts and culture publication for the greater Philadelphia area. You can read my work <a href="https://emilyesten.com/tags/broad+street+review/">here</a>.
+#profile-writing: I am a freelance writer on arts, pop culture, and public history. Most of my work has been as a contributor to the <a href="https://www.broadstreetreview.com/">Broad Street Review</a>, a non-profit online arts and culture publication for the greater Philadelphia area. You can read my work <a href="https://emilyesten.com/tags/broad+street+review/">here</a>.
 
 ########### Education ###########
 education:
@@ -45,13 +45,13 @@ employment-university:
   - title: Judaica Digital Humanities Coordinator
     company: Penn Libraries
     date: "2019–2021"
-    context: "Managing the research and development of various projects associated with Judaica Digital Humanities at Penn Libraries, I deepen public and scholarly engagement with Penn's Judiaca materials"
+    context: "Managed the research and development of various projects associated with Judaica Digital Humanities at Penn Libraries."
     page-tag-tech: digital
     page-tag: publichumanities
   - title: Researcher and Collaborator, Mapping Violence
     company: Brown University, Department of American Studies
     date: "2018–2019"
-    context: "As a Researcher and Collaborator on the team, I coordinated with student developers and system administrators to maintain and operate the existing database, and provided strategic direction on the layout, interface, and content for project website"
+    context: "Coordinated with student developers and system administrators to maintain and operate the existing database, and provided strategic direction on the layout, interface, and content for project website"
     page-tag-tech: digital
   - title: Teaching Assistant
     company: Brown University, School of Professional Studies
@@ -498,7 +498,7 @@ projects:
     url: "http://mappingviolence.com"
     date: "2017-2018"
     context: "Mapping Violence recovers lost and obscured cases of racial violence in Texas from 1900 to 1930, a period of now largely forgotten bloodshed. Making these histories public is a crucial step towards reckoning with the long legacies of violence"
-    details: I've discussed my work on this project in several venues, including the American Studies Association Annual Meeting (2018).
+    #details: I've discussed my work on this project in several venues, including the American Studies Association Annual Meeting (2018).
     page-tag-tech: digital
     page-tag: publichumanities
     used: HTML
