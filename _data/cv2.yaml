@@ -17,7 +17,6 @@ contact:
 ########### Profile ###########
 profile: I work in digital public humanities, which means proactively engaging with audience, content, and methods in relation to the projects we build with technology and data. I create and apply digital tools to foster connection and dialogue around cultural heritage. Having played an active role in shaping collaborations, training, and programming around understanding data, I am especially excited to tackle data-related projects and educate others to do the same.
 
-
 profile-public: Over five years of working in higher education and cultural institutions, I have explored different approaches to developing effective digital content. I practice digital public humanities, bringing my love for museums and my interest in digital tools together to give audiences agency in their participation and engagement.
 
 profile-digital: With universities and cultural institutions, I work on innovative digital projects to engage audiences with objects, stories, and ideas.
@@ -381,6 +380,15 @@ conference-other:
 
 other-talks:
   - title: "Scribes of the Cairo Geniza Transcribe-a-thon"
+    institution: The Center for Research Data and Digital Scholarship at University of Pennsylvania Libraries, The Center for Digital Humanities at Princeton University Library, the Princeton Geniza Lab, and the Zooniverse
+    location: Virtual
+    date: April
+    year: 2021
+    type: Talk
+    page-tag-tech: digital
+    page-tag: publichumanities
+    url: "https://www.library.upenn.edu/blogs/rdds/recap-crowdsourcing-and-humanities-roundtable-discussions-celebrating-scribes-cairo"
+  - title: "Scribes of the Cairo Geniza Transcribe-a-thon"
     institution: Columbia University Libraries
     location: Virtual
     date: April
@@ -428,14 +436,6 @@ awards:
 
 ########### Digital ###########
 projects:
-#  - title: "Report A Pest"
-#    role: Project Manager/Technical Lead
-#    url: "https://github.com/upenndigitalscholarship/report-a-pest"
-#    date: "2022"
-#    context: "An crowdsourced integrated pest management project for documenting pest sightings"
-#    used: Excel
-#    details: ""
-    page-tag-tech: digital
   - title: "Audubon in Action: Creative Approaches to Data"
     role: Project Manager/Developer
     url: "https://github.com/upenndigitalscholarship/audobon-birds-of-penn"
@@ -444,6 +444,14 @@ projects:
     used: Jupyter Notebooks, Python
     details: ""
     page-tag-tech: digital
+#  - title: "Report A Pest"
+#    role: Project Manager/Technical Lead
+#    url: "https://github.com/upenndigitalscholarship/report-a-pest"
+#    date: "2022"
+#    context: "An crowdsourced integrated pest management project for documenting pest sightings"
+#    used: Excel
+#    details: ""
+#    page-tag-tech: digital
   - title: "Collections as Data Notebooks"
     role: Project Manager/Developer
     url: "https://github.com/upenndigitalscholarship/collections-as-data-notebooks"
