@@ -15,28 +15,20 @@ title: Projects
 
 Over the past five years in higher education, museums, and cultural institutions, I have helped produce a variety of projects to deepen public and scholarly engagement with digital materials. This portfolio shares a sampling of my current and past projects, from tools to exhibitions.
 
-## Current Projects 
+<!-- Exhibits -->
+<div class="clear">
+<h2><span id="t8"></span><a href="#t0"><i class="fa fa-chevron-up"></i></a> Projects</h2>
 
-{% assign sorted_posts = site.work | sort:"start-year" | reverse %}
-{% for post in sorted_posts %}
-{% if post.status == "current" %}
-### [{{ post.title }}]({{ site.url }}/work/{{ post.slug }}) 
-*{{ post.role }} • {{ post.location }} • {{ post.start-year }}-{{ post.end-year }}*
-
-{{ post.context }}
-
-
-{% endif %}
+{% for title in site.data.projects %}
+    {% if forloop.first == true %}
+        <div class="one-fourth column-bottom clear subcat"><em>Projects</em></div>
+    {% else %}
+        <div class="one-fourth column-bottom clear subcat"></div>
+    {% endif %}
+        <div class="three-fourths column-last column-bottom clear">
+            <a href="{{ title.url }}"><b>{{ title.title }}</b></a> • <a id="showExhibitions{{ forloop.index }}"><i class="fa fa-info-circle" aria-hidden="true"></i></a> • <small>{{ title.role }}. {{ title.date }}.</small>
+            <div class="context" id="minorProject{{ forloop.index }}"><p>{{ title.context }}</p></div>
+        </div>
 {% endfor %}
 
-## Past Projects
-
-{% for post in sorted_posts %}
-{% if post.status == "legacy" %}
-### [{{ post.title }}]({{ site.url }}/work/{{ post.slug }}) 
-*{{ post.role }} • {{ post.location }} • {{ post.start-year }}-{{ post.end-year }}*
-
-{{ post.context }}
-
-{% endif %}
-{% endfor %}
+</div>

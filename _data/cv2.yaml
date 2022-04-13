@@ -438,7 +438,7 @@ awards:
 projects:
   - title: "Audubon in Action: Creative Approaches to Data"
     role: Project Manager/Developer
-    url: "https://github.com/upenndigitalscholarship/audobon-birds-of-penn"
+    url: "https://github.com/upenndigitalscholarship/audubon-birds-of-penn"
     date: "2022"
     context: "A Python project on display for Earth Week 2020 combining crowdsourced data and library collections for visual and sonified output"
     used: Jupyter Notebooks, Python
@@ -455,7 +455,7 @@ projects:
   - title: "Collections as Data Notebooks"
     role: Project Manager/Developer
     url: "https://github.com/upenndigitalscholarship/collections-as-data-notebooks"
-    date: "2021"
+    date: "2021-"
     context: "Tutorials and examples to help you work with collections data from Penn Libraries"
     used: Jupyter Notebook, Python
     details: ""
