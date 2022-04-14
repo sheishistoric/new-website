@@ -53,5 +53,7 @@ Over the past five years in higher education, museums, and cultural institutions
 ### {{ title.title }} 
 {% endif %}
 *{{ title.role }} • {{ title.location }} • {{ title.date }}*{{ post.context }}
+
 {{ title.context }}
+
 {% endfor %}
