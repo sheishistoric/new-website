@@ -45,7 +45,6 @@ Over the past five years in higher education, museums, and cultural institutions
 
 ## Exhibitions
 <!-- Exhibitions-->
-<div class="clear">
 
 {% for title in site.data.cv2.exhibitions %}
 {% if title.url !="" %}
