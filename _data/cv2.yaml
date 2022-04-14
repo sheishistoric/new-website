@@ -436,6 +436,11 @@ awards:
 
 ########### Digital ###########
 projects:
+  - title: "SNL Coefficient"
+    role: Project Developer 
+    date: "2021-2022"
+    context: "A personal project attempting to quantify association of Saturday Night Live alumni and media with the sketch comedy show"
+    url: "https://snl-coefficient.herokuapp.com/bokeh_movies"
   - title: "Audubon in Action: Creative Approaches to Data"
     role: Project Manager/Developer
     url: "https://github.com/upenndigitalscholarship/audubon-birds-of-penn"
