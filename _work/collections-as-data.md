@@ -2,7 +2,7 @@
 link: https://github.com/upenndigitalscholarship/collections-as-data-notebooks
 location: University of Pennsylvania Libraries
 layout: work
-slug: collections-as-data-notebooks 
+slug: collections-as-data 
 title: Collections as Data 
 thumb-img: 
 banner-img: 

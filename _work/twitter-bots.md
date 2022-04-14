@@ -9,7 +9,7 @@ banner-img:
 img-source: 
 img-source-url: 
 start-year: 2016
-end-year: 
+end-year: 2018
 status: current
 context: "I manage some Twitter bots, several related to the Mountain Goats, an American band formed in Claremont, California, by singer-songwriter John Darnielle."
 role: Botmaker

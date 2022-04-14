@@ -10,6 +10,8 @@ title: Projects
         <a href="#current-projects">CURRENT PROJECTS</a></li>
     <li>
         <a href="#past-projects">PAST PROJECTS</a></li>
+      <li>
+        <a href="#past-projects">EXHIBITIONS</a></li>
 </ul>
 </div>
 
@@ -40,3 +42,16 @@ Over the past five years in higher education, museums, and cultural institutions
 
 {% endif %}
 {% endfor %}
+
+## Exhibitions
+<!-- Exhibitions-->
+<div class="clear">
+
+{% for title in site.data.cv2.exhibitions %}
+{% if title.url !="" %}
+### [{{ title.title }}]({{ title.url }}) 
+{% else %}
+### {{ title.title }} 
+{% endif %}
+*{{ title.role }} • {{ title.location }} • {{ title.date }}*{{ post.context }}
+{{ title.context }}

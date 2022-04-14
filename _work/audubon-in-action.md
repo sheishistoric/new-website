@@ -5,7 +5,7 @@ layout: work
 slug: audubon-in-action 
 title: "Audubon in Action: Creative Approaches to Data" 
 thumb-img: 
-banner-img: 
+banner-img: audubon-in-action.jpeg
 img-source: 
 img-source-url: 
 status: current
