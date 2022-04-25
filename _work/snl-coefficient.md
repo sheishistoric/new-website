@@ -1,35 +1,28 @@
 ---
-link: https://github.com/upenndigitalscholarship/audubon-birds-of-penn
-location: University of Pennsylvania Libraries
+link: https://github.com/sheishistoric/snl_coefficient
+location: Personal Project
 layout: work
-slug: audubon-in-action 
-title: "Audubon in Action: Creative Approaches to Data" 
+slug: snl-coefficient
+title: "SNL Coefficient" 
 thumb-img: 
-banner-img: audubon-in-action.jpeg
+banner-img: 
 img-source: 
 img-source-url: 
 status: current
-start-year: 2022
+start-year: 2021
 end-year: present
-context: "Experiment with the latest project, Birds of Philadelphia, which uses high-resolution images of Audubon's plates from The Birds of America alongside crowdsourced observation data to consider the depiction of wildlife data through visual, aural, and interactive components."
-role: Project Manager/Developer
+context: "This repository contains all the scripts and data for the SNL Coefficient project. This project attempts to determine a value for cast and crew members' association with Saturday Night Live, to then determine how closely associated a particular media property is with the show."
+role: Developer/Co-Creator
 
 ---
 
 
-In this session, come test emerging technologies and digital methods to enhance the impact of the Penn's collections. Experiment with the latest project, Birds of Philadelphia, which uses high-resolution images of Audubon's plates from The Birds of America alongside crowdsourced observation data to consider the depiction of wildlife data through visual, aural, and interactive components. Participants will find creative ways to amplify, build on, and disseminate data from environmental collections and crowdsourced projects. Read more about this project here.
-
-This workshop was hosted as part of Earth Week Data Jam, a week of working and playing with enviornmental data with the Center for Research Data and Digital Scholarship (RDDS) at Penn Libraries.
+*Saturday Night Live*’s legacy in the comedy industry is rarely questioned. But as researchers, we can question how to quantify and represent this legacy in terms of data. Starting with the concept of “*Saturday Night Live* films”, the franchises spun off from sketches on the late night show, we suggest a method of determining the SNL coefficient of a piece of media based on the presence and significance of current and former *SNL* cast members and writers in its creation. Sparking an intriguing conversation on the show’s legacy and the networks behind the scenes of today’s comedy industry, this data set also creates a wealth of *SNL* trivia for fans of the show. In this article, we dig into the filmographies of over 250 current and former *SNL* cast members and writers to understand how the show, in over nearly 50 years, spawned a quantifiable professional network of writers and performers that had manifested in multiple platforms (television, film, online content, etc.) as well as in multiple genres beyond comedy.
+And we’ll prove that *Mean Girls* should be remembered as an *SNL* feature film.  
 
 ### Process
 
-Plate images from Audubon's Birds of America were downloaded from Nathan Buchar's GitHub repository, compiled from the Audubon Foundation. Observation data was exported from the Birds of Philadelphia project on iNaturalist, filtered for only those observations posted with a license.
-
-For any observation data with an associated image or sound, these files were exported and saved to a folder named for the corresponding common bird name. Additional sound files were downloaded via the xeno-canto API, querying based on the common bird names. Birds were then matched, by common name, to the corresponding plate images - only those that were matched were included in the project.
-
-Photomosaics were created using a script by Data Dolittle.Display posts were created using Pillow (Python Imaging Library), including the common name, scientific name, and information about the number of observations and last observation recorded on iNaturalist.
-
-The sonification of the observation data was created using Pydub, where 1 second is the equivalent of 1 day of observations. For any day when birds were observed, a random sound file for the corresponding bird was appended to the file. (Datasets for individual bird sounds that were downloaded for this project are labeled with the common name of the bird and available in the sounds folder.) Individual citations for each sound file can be generated from those datasets.) Silence means no birds were observed on that day.
+An early draft of the SNL Coefficient explanation can be found here: http://snl-coefficient.herokuapp.com/bokeh_movies
 
 ### Resources 
 
