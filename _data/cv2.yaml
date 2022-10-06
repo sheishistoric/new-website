@@ -638,7 +638,7 @@ skills:
   - title: "Languages"
     things: "Spanish (conversational)"
   - title: "Computer-Adjacent Languages"
-    things: "HTML, CSS, Jekyll + Liquid templating, Python (reading), Swift (reading), JavaScript (training), R (training)"
+    things: "HTML, CSS, Jekyll + Liquid templating, Python (reading & writing), JavaScript (training), R (training)"
   - title: "Social Media"
     things: Twitter, Facebook, Instagram
   - title: "Content Management"
@@ -668,6 +668,11 @@ training:
 
 ########### Courses and Workshops ###########
 workshop:
+  - title: "Advocating for Community: Data Collection and Visualization"
+    organizer: "DreamLab//Price Lab for Digital Humanities at the University of Pennsylvania"
+    location: "University of Pennsylvania"
+    date: "June 2022"
+    url: "https://web.sas.upenn.edu/dream-lab/advocating-for-community-data-collection-and-visualization/"
   - title: "Audubon in Action: Creative Approaches to Data"
     organizer: "The Carpentries//University of Pennsylvania Libraries"
     location: "Earth Week Data Jam"
