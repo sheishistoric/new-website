@@ -35,7 +35,7 @@ education:
 
 ########### University Employment ###########
 employment-university:
-  - title: Curator of Digital Humanities
+  - title: Arnold and Deanne Kaplan Collection of Early American Judaica Curator of Digital Humanities
     company: Penn Libraries
     date: "2021–Present"
     context: "As the inaugural Kaplan Curator, I spearhead projects that facilitate access to and use of Penn's Judaica collections, promoting them and making connections between them and dispersed Judaica content around the globe. I am also responsible for curating, building, and researching the Arnold and Deanne Kaplan Collection of Early American Judaica."
@@ -65,6 +65,13 @@ employment-university:
 
 ########### Public History Employment ###########
 employment-publichumanities:
+  - title: Web Developer
+      company: Mark Twain House and Museum
+      date: "2022"
+      context: "Worked with high school student fellows at the Mark Twain House to launch creative writing magazine"
+      url: journey75.org
+      page-tag-tech: digital
+      page-tag: publichumanities
   - title: Web Manager
     company: Contingent Magazine
     date: "2019–Present"
@@ -137,10 +144,13 @@ edited:
     url: "https://startwords.cdh.princeton.edu/issues/2/"
 
 journals:
+  - title: "Scribes of the Cairo Geniza"
+    venue: "Visualizing Objects, Places, and Spaces: A Digital Project Handbook"
+    date: "February 2021"
+    url: "https://doi.org/10.21428/51bee781.0afc1687"
   - title: "Scribes, Scholars, and Scripts: Reviewing Data from <i>Scribes of the Cairo Geniza</i>"
     venue: "Manuscript Studies: a Journal of Schoenberg Institute for Manuscript Studies"
     date: "September 2020"
-    date: "2021"
     url: "https://repository.upenn.edu/mss_sims/vol5/iss2/4/"
   - title: "Digital Second Edition of Judaica Americana: A Bibliography of Publications to 1900."
     venue: "Journal of Open Humanities Data"
@@ -165,13 +175,6 @@ datasets:
     url: "https://github.com/sheishistoric/Visualizing-the-Crystal-Palace"
 
 web:
-  - title: "Scribes of the Cairo Geniza"
-    venue: "Visualizing Objects, Places, and Spaces: A Digital Project Handbook"
-    date: "February 2021"
-    url: "https://doi.org/10.21428/51bee781.0afc1687"
-    page-tag: publichumanities
-    page-tag: digital
-    page-tag: geniza
   - title: "Who are the #GenizaScribes: 2019-2020 Community Survey Report"
     venue: "Penn Libraries, University of Pennsylvania"
     date: "February 2020"
@@ -238,6 +241,27 @@ other:
 ########### Talks ###########
 
 conference-talks:
+  - title: "Collections as Data: Judaica Digital Humanities at the Penn Libraries"
+    institution:  Modern Language Association
+    location: San Francisco, California
+    date: Jan. 2023
+    url: "https://mla.confex.com/mla/2023/meetingapp.cgi/Session/15327"
+    page-tag-tech: digital
+    page-tag: publichumanities
+  - title: "Creative Approchaes to Data"
+    institution:  Southeast Data Librarian Symposium
+    location: Virtual
+    date: Jan. 2023
+    url: "https://osf.io/56z2b"
+    page-tag-tech: digital
+    page-tag: publichumanities
+  - title: "Building a Judaica DH Program"
+    institution: Luxembourg Centre for Contemporary and Digital History (C²DH); University of Luxembourg
+    location: Virtual
+    date: January 2021
+    url: "https://doi.org/10.26226/morressier.5fd8d8c83d762219be34f4d8"
+    page-tag-tech: digital
+    page-tag: publichumanities
   - title: "Digital Public Humanities for Historians"
     institution:  American Studies Association
     location: Atlanta, Georgia
@@ -265,6 +289,33 @@ conference-talks:
     url: ""
 
 conference-other:
+  - title: "Across the Zooniverse: Science and the Humanities"
+    institution: Princeton University
+    location: Virtual
+    date: April 2021
+    type: Panel
+    event: "A Roundtable at Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza"
+    url: "http://www.kaltura.com/tiny/yxsv7"
+    page-tag-tech: digital
+    page-tag: "publichumanities"
+  - title: "Platforms for People-Powered Research"
+    institution: Princeton University
+    location: Virtual
+    date: April 2021
+    type: Panel
+    event: "A Roundtable at Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza"
+    url: "http://www.kaltura.com/tiny/lj9gm"
+    page-tag-tech: digital
+    page-tag: "publichumanities"
+  - title: "Meet the Scribes of the Cairo Geniza Project Team"
+    institution: Princeton University
+    location: Virtual
+    date: April 2021
+    type: Panel
+    event: "A Roundtable at Crowdsourcing and the Humanities: Roundtable Discussions Celebrating Scribes of the Cairo Geniza"
+    url: "http://www.kaltura.com/tiny/u0ieh"
+    page-tag-tech: digital
+    page-tag: "publichumanities"
   - title: "Judaica Digital Humanities at the Penn Libraries Overview"
     institution: Association of Jewish Libraries
     location: Virtual
@@ -668,6 +719,21 @@ training:
 
 ########### Courses and Workshops ###########
 workshop:
+  - title: "Build a Digital Exhibit with Wax"
+    organizer: "University of Pennsylvania Libraries"
+    location: "University of Pennsylvania"
+    date: "November 2022"
+    url: ""
+  - title: "Publish a Digital Collection with CollectionBuilder"
+    organizer: "University of Pennsylvania Libraries"
+    location: "University of Pennsylvania"
+    date: "October 2022"
+    url: ""
+  - title: "Build a Digital Exhibit with Omeka"
+    organizer: "University of Pennsylvania Libraries"
+    location: "University of Pennsylvania"
+    date: "September 2022"
+    url: ""
   - title: "Advocating for Community: Data Collection and Visualization"
     organizer: "DreamLab//Price Lab for Digital Humanities at the University of Pennsylvania"
     location: "University of Pennsylvania"
