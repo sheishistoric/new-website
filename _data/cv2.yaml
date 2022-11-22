@@ -66,12 +66,12 @@ employment-university:
 ########### Public History Employment ###########
 employment-publichumanities:
   - title: Web Developer
-      company: Mark Twain House and Museum
-      date: "2022"
-      context: "Worked with high school student fellows at the Mark Twain House to launch creative writing magazine"
-      url: journey75.org
-      page-tag-tech: digital
-      page-tag: publichumanities
+    company: Mark Twain House and Museum
+    date: "2022"
+    context: "Worked with high school student fellows at the Mark Twain House to launch creative writing magazine"
+    url: journey75.org
+    page-tag-tech: digital
+    page-tag: publichumanities
   - title: Web Manager
     company: Contingent Magazine
     date: "2019–Present"
