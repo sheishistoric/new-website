@@ -9,9 +9,9 @@ title: Home
 
 Hi, My name is **Emily Esten**, and I’m currently the Project Lead, DocMaps at [Knowledge Futures](https://www.knowledgefutures.org/).
 
-I work in digital public humanities, which means proactively engaging with audience, content, and methods in relation to the projects we build with technology and data. I create and apply digital tools to foster connection and dialogue around cultural heritage. Having played an active role in shaping collaborations, training, and programming around understanding data, I am especially excited to tackle data-related projects and educate others to do the same.
+In my varied work experience - from project lead to curator, educator to site developer - my primary focus has been in engaging with audiences, content, and tools to build better research and teaching communities. I’ve played an active role in shaping collaborations, training, and programming around digital tools for scholarly communication. 
 
-Over five years of working in higher education and cultural institutions, I have explored different approaches to developing effective digital content. I work as Web Manager for [Contingent Magazine](http://contingentmagazine.org/) and previously served as Curator of Digital Humanities at Penn Libraries [https://library.upenn.edu] & Director of Communications for the [National Emerging Museum Professionals Network](https://nationalempnetwork.org/).
+In addition to my day-to-day work, I've done freelance site developmemt for [Contingent Magazine](https://contingentmagazine.org/) and [Journey75 at the Mark Twain House & Museum](https://journey75.org/). I previously served as Director of Communications for the [National Emerging Museum Professionals Network](https://nationalempnetwork.org/).
 
 
 On this site, you can do the following:

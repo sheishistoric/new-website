@@ -35,9 +35,14 @@ education:
 
 ########### University Employment ###########
 employment-university:
+  - title: Project Lead, DocMaps
+    company: Knowledge Futures
+    date: "2022–Present"
+    context: "I led the DocMaps project in developing a software development kit and documentation, and driving adoption to integrating Docmaps into platform technology and workflows."
+    page-tag-tech: digital
   - title: Arnold and Deanne Kaplan Collection of Early American Judaica Curator of Digital Humanities
     company: Penn Libraries
-    date: "2021–Present"
+    date: "2021–2022"
     context: "As the inaugural Kaplan Curator, I spearhead projects that facilitate access to and use of Penn's Judaica collections, promoting them and making connections between them and dispersed Judaica content around the globe. I am also responsible for curating, building, and researching the Arnold and Deanne Kaplan Collection of Early American Judaica."
     page-tag-tech: digital
     page-tag: publichumanities
